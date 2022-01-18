@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71ad8fc6-f198-466e-a803-a63d6b10bd55": {
+      "ProjectGuid": "71ad8fc6-f198-466e-a803-a63d6b10bd55",
+      "DisplayName": "map_allocator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

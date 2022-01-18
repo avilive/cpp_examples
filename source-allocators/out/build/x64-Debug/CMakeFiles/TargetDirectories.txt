@@ -1,0 +1,3 @@
+G:/GIT/cpp_examples/source-allocators/out/build/x64-Debug/CMakeFiles/allocator.dir
+G:/GIT/cpp_examples/source-allocators/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+G:/GIT/cpp_examples/source-allocators/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

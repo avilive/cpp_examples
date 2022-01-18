@@ -1,0 +1,7 @@
+[
+{
+  "directory": "G:/GIT/cpp_examples/source-allocators/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\allocator.dir\\allocator.cpp.obj -c G:\\GIT\\cpp_examples\\source-allocators\\allocator.cpp",
+  "file": "G:/GIT/cpp_examples/source-allocators/allocator.cpp"
+}
+]
